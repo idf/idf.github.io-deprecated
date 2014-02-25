@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "Quick easy done"
 category: 
 tags: []
 ---
 {% include JB/setup %}
 
 ## Overview
-This is mardown
+    $ sudo su
