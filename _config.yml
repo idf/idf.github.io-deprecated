@@ -15,7 +15,7 @@ author :
   email : zhangdanyangg@gmail.com
   github : zhangdanyangg
   twitter : __DanielZhang
-  feedburner : null # feedname
+  feedburner : DeepReader # feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : deepreader
     livefyre :
       site_id : 123
     intensedebate :
