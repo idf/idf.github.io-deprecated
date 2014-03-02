@@ -8,4 +8,6 @@ tags: []
 {% include JB/setup %}
 
 ## Overview
-    $ sudo su
+```
+$ sudo su
+```
