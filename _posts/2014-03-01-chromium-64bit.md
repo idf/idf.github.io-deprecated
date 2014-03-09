@@ -2,7 +2,7 @@
 layout: post
 title: "Chromium 64bit"
 description: "Compatibility issues"
-category: browser 
+category: Super User 
 tags: []
 ---
 {% include JB/setup %}

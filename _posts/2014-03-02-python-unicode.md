@@ -2,7 +2,7 @@
 layout: post
 title: "Python Unicode"
 description: "UTF-8 with Json"
-category: Programming
+category: Computer Science
 tags: []
 ---
 {% include JB/setup %}

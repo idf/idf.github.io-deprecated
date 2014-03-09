@@ -2,7 +2,7 @@
 layout: post
 title: "Singapore Haze and Theory of Planned Behavior"
 description: "A social scientific approach of reviewing Singapore Haze 2013"
-category: 
+category: Business 
 tags: []
 ---
 {% include JB/setup %}

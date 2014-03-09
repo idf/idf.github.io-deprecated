@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 ## Blog Posts
-    $ echo hello github.io
+    $ echo hello DeepReader.io
 
 <ul class="posts">
   {% for post in site.posts %}

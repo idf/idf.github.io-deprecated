@@ -2,7 +2,7 @@
 layout: post
 title: "Set up Jekyll"
 description: "Quick set up for Jekyll in Windows"
-category: 
+category: Computer Science
 tags: [jekyll]
 ---
 {% include JB/setup %}

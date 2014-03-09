@@ -2,7 +2,7 @@
 layout: post
 title: "Exceptions in Python and Java"
 description: "Why Java is suitable for industrial use"
-category: Programming
+category: Computer Science
 tags: []
 ---
 {% include JB/setup %}
