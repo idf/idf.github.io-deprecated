@@ -8,16 +8,19 @@ tags: []
 {% include JB/setup %}
 
 In Python:
+
 {% highlight python %}
 None==None # return True, invoking __eq__ method 
 None is None # return True, identity test, for singleton
 {% endhighlight %}
 In Java: 
+
 {% highlight java %}
 null==null // return true
 null.equals(null) // NullPointerException
 {% endhighlight %}
 In SQL:
+
 {% highlight sql %}
 null = null -- evaluate to False if set ansi_nulls off
 null = null -- evaluate to True if set ansi_nulls on
