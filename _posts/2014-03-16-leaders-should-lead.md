@@ -36,9 +36,13 @@ Referent power comes into play since a leader cannot possess all the expertises 
 --- 
 Consequently, by aligning the members' motivations and goals to the team's overall goal using both Expert power and Referent power (sometimes Coercive power in case of emergency), along with setting [SMART goals][6], a leader will lead his high-performance team to victory.  
 
+---
+*Related link*: [Why Good Managers Are So Rare][7] by Randall Beck and James Harter on Harvard Business Review. 
+
 [1]: http://www.amazon.com/Management-Boundless-ebook/dp/B00EZYZMFK
 [2]: https://www.princeton.edu/~achaney/tmve/wiki100k/docs/AI-complete.html
 [3]: http://www.marshallcf.com/assets/book_reviews/Drive.pdf
 [4]: https://www.youtube.com/watch?v=rrkrvAUbU9Y&hl=en-GB&gl=SG
 [5]: http://psycnet.apa.org/psycinfo/1960-06701-004
 [6]: http://psycnet.apa.org/psycinfo/1990-97846-000
+[7]: http://blogs.hbr.org/2014/03/why-good-managers-are-so-rare/
