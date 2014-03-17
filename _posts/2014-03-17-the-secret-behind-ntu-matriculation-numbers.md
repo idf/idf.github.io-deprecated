@@ -11,8 +11,8 @@ Every student matriculated in Nanyang Technological University Singapore (NTU) i
 
 * "U" stands for type of study, thus "U" is for undergraduate student, "G" is for graduate student, and "N" is for exchange student. 
 * "12" stands for the year matriculated, thus "12" is for students matriculated in year 2012. 
-* "34" is for school code, normally "10" is for Nanyang Business School and "20" "21" are for College of Engineering. 
-* "567" is a unique identifier for every single student in a non-sequential manner. 
+* "3" is for school code, normally "1" is for Nanyang Business School, "2" are for College of Engineering, "3" for Science, and so on. -- Thank [Yuan Yiyang][8] for his valuable inputs. 
+* "4567" is a unique identifier for every single student in a non-sequential manner. -- Thank [Yuan Yiyang][8] for his valuable inputs. 
 * Last letter "A" is the checksum ([hash value][2]) of the matriculation number. 
 
 NTU has changed the matriculation number format thus is different from 2005 version according to [this][1]. In this study, only "U", undergraduate, matriculation numbers are studied since I only sufficient access to such matriculation numbers.  
@@ -93,3 +93,4 @@ Bug reports are welcomed. If you find some errors please comments below or conta
 [5]: http://docs.python.org/2/library/multiprocessing.html
 [6]: http://pypy.org/
 [7]: http://ark.intel.com/products/52231/Intel-Core-i7-2620M-Processor-4M-Cache-up-to-3_40-GHz
+[8]: http://yuan3y.com/
