@@ -7,7 +7,13 @@ tags: []
 ---
 {% include JB/setup %}
 ###Matriculation Number
-Every student matriculated in Nanyang Technological University Singapore (NTU) is assigned a matriculation number, in a SAMPLE format of `U1234567A`. "U" stands for type of study, thus "U" is for undergraduate student, "G" is for graduate student, and "N" is for exchange student. "12" stands for the year matriculated, thus "12" is for students matriculated in year 2012. "34" is for school code, normally "10" is for Nanyang Business School and "20" "21" are for College of Engineering. "567" is a unique identifier for every single student in a non-sequential manner. Last letter "A" is the checksum ([hash value][2]) of the matriculation number. 
+Every student matriculated in Nanyang Technological University Singapore (NTU) is assigned a matriculation number, in a SAMPLE format of `U1234567A`.  
+
+* "U" stands for type of study, thus "U" is for undergraduate student, "G" is for graduate student, and "N" is for exchange student. 
+* "12" stands for the year matriculated, thus "12" is for students matriculated in year 2012. 
+* "34" is for school code, normally "10" is for Nanyang Business School and "20" "21" are for College of Engineering. 
+* "567" is a unique identifier for every single student in a non-sequential manner. 
+* Last letter "A" is the checksum ([hash value][2]) of the matriculation number. 
 
 NTU has changed the matriculation number format thus is different from 2005 version according to [this][1]. In this study, only "U", undergraduate, matriculation numbers are studied since I only sufficient access to such matriculation numbers.  
 
