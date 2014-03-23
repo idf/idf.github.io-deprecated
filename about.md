@@ -1,6 +1,6 @@
-
+---
 layout: page
-title: "About"
+title: About
 description: ""
 ---
 {% include JB/setup %}
@@ -11,15 +11,12 @@ Support Free Market and Free Trade partially regulated by government; oppose Com
 Advocate contextual Leadership, desiring to construct or participate in High-Performance Team; turn down the thumb on Heroism;  
 Believe in Intelligence Amplification, object to pure Artificial Intelligence, but not oppose Technological Singularity.   
   
-Last but not least, 
-```
-I could be false and you could be true, but through efforts, we can approach to the truth.   
-```
+Last but not least, I could be false and you could be true, but through efforts, we can approach to the truth.   
 ###Noticeabele Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.  
 1. THE TIPPING POINT by Malcolm Gladwell.  
 1. OUTLIERS by Malcolm Gladwell.  
-1. FLOW by Mihály Csíkszentmihályi.  
+1. FLOW by Mihaly Csikszentmihalyi.  
 1. THE MYTHICAL MAN-MONTH by Fred Brooks.  
 1. YES by Noah J. Goldstein.  
 1. DRIVE by Daniel H. Pink.  
