@@ -5,6 +5,8 @@ description: ""
 ---
 {% include JB/setup %}
 ###Personal Beliefs
+Just my two cents, taken with a grain of salt.
+
 Champion Elitism, against Populism and Welfarism;  
 Believe in Jevons' Subjective theory of value, against Marx's value theory;   
 Support Free Market and Free Trade partially regulated by government; oppose Communism and Planned Economy;  
