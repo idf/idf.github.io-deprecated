@@ -3,7 +3,7 @@ layout: post
 title: "Exceptions in Python and Java"
 description: "Why Java is suitable for industrial use"
 category: Computer Science
-tags: []
+tags: ['python', 'java']
 ---
 {% include JB/setup %}
 Python is an elegant language, and you can develop and tweak the scripts to suit your needs without going through the tedious process of compilation as in Java.  

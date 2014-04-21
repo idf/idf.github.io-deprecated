@@ -3,7 +3,7 @@ layout: post
 title: "Set up Jekyll"
 description: "Quick set up for Jekyll in Windows"
 category: Computer Science
-tags: [jekyll]
+tags: ['jekyll']
 ---
 {% include JB/setup %}
 Set up Jekyll in Linux is much more easier, but anyway in Windows:  

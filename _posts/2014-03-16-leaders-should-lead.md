@@ -3,7 +3,7 @@ layout: post
 title: "Leaders Should Lead"
 description: "A brief look on leadership"
 category: Business
-tags: []
+tags: ['team', 'leader', 'tasks', 'power']
 ---
 {% include JB/setup %}
 ###Band of Brothers 

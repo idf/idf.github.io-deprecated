@@ -3,7 +3,7 @@ layout: post
 title: "Python Unicode"
 description: "UTF-8 with Json"
 category: Computer Science
-tags: []
+tags: ['json', 'python', 'unicode', 'encoding utf-8']
 ---
 {% include JB/setup %}
 If the data structure in Python (e.g. dict, list) contains unicode, you must ensure this when dumping to json:

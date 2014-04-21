@@ -3,7 +3,7 @@ layout: post
 title: "The Secret behind NTU Matriculation Numbers"
 description: "Hash Function"
 category: Computer Science
-tags: []
+tags: ['matriculation number', 'checksum']
 ---
 {% include JB/setup %}
 ###Matriculation Number

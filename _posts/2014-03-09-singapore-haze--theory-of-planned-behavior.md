@@ -3,7 +3,7 @@ layout: post
 title: "Singapore Haze and Theory of Planned Behavior"
 description: "A social scientific approach of reviewing Singapore Haze 2013"
 category: Business 
-tags: []
+tags: ['pdf', 'haze', '2013']
 ---
 {% include JB/setup %}
 Full article in pdf formmat on [SingaporeHaze-TheoryofPlannedBehavior.pdf](/assets/pdf/SingaporeHaze-TheoryofPlannedBehavior.pdf)  

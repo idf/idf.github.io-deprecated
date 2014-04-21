@@ -3,7 +3,7 @@ layout: post
 title: "Are nulls equal?"
 description: "It depends"
 category: Computer Science
-tags: []
+tags: ['null', 'sql', 'java', 'python']
 ---
 {% include JB/setup %}
 
