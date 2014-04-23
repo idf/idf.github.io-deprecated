@@ -14,6 +14,7 @@ Advocate contextual Leadership, desiring to construct or participate in High-Per
 Believe in Intelligence Amplification, object to pure Artificial Intelligence, but not oppose Technological Singularity.   
   
 Last but not least, I could be false and you could be true, but through efforts, we can approach to the truth.   
+
 ###Noticeabele Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.  
 1. THE TIPPING POINT by Malcolm Gladwell.  
