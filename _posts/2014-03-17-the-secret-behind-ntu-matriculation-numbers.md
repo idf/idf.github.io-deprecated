@@ -66,16 +66,14 @@ Given the sample matriculation number `U1122983C`, the `C` is calulated as follo
 |10|l|
 
 
-```
-# weight = [10, 7, 4, 3, 2, 9, 8]
-# matric = [1, 1, 2, 2, 9, 8, 3]
-# weight dot multiplies matric
+    # weight = [10, 7, 4, 3, 2, 9, 8]
+    # matric = [1, 1, 2, 2, 9, 8, 3]
+    # weight dot multiplies matric
 
-1*10+1*7+2*4+2*3+9*2+8*9+3*8 
-= 145
-145 mod 11
-= 2
-```
+    1*10+1*7+2*4+2*3+9*2+8*9+3*8 
+    = 145
+    145 mod 11
+    = 2
 
 thus the checksum 'C'.  
 
