@@ -15,6 +15,7 @@ author :
   github : zhangdanyangg
   twitter : __DanielZhang
   feedburner : DeepReader # feedname
+  feedname : DeepReader
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
