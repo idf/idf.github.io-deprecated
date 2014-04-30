@@ -4,18 +4,16 @@ title: About
 description: ""
 ---
 {% include JB/setup %}
-###Personal Beliefs
-Just my two cents, taken with a grain of salt.
+### About Me
+Daniel Danyang ZHANG (张丹漾) [Business & Computing](http://sce.ntu.edu.sg/CurrentStudents/Undergraduate/Pages/bcg.aspx)   junior undergraduate in Nanyang Technological University, Singapore (新加坡南洋理工大学).  
 
-Champion Elitism, against Populism and Welfarism;  
-Believe in Jevons' Subjective theory of value, against Marx's value theory;   
-Support Free Market and Free Trade partially regulated by government; oppose Communism and Planned Economy;  
-Advocate contextual Leadership, desiring to construct or participate in High-Performance Team; turn down the thumb on Heroism;  
-Believe in Intelligence Amplification, object to pure Artificial Intelligence, but not oppose Technological Singularity.   
-  
-Last but not least, I could be false and you could be true, but through efforts, we can approach to the truth.   
+Tag: Reader, Doer, Python, Java. 
+### Personal Beliefs
+#### Smile to people, appreciate arts, and be grateful to life.  
+#### Software is not just about codes and tools, but about the individuals, societies, adn  humantities -- Peopleware.
 
-###Noticeabele Non-fictions I Have Read
+
+### Noticeabele Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.  
 1. THE TIPPING POINT by Malcolm Gladwell.  
 1. OUTLIERS by Malcolm Gladwell.  
@@ -25,7 +23,7 @@ Last but not least, I could be false and you could be true, but through efforts,
 1. DRIVE by Daniel H. Pink.  
 1. QUIET by Susan Cain.  
 
-###Noticeabele Technical Books I Have Read
+### Noticeabele Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
 1. PRINCIPLES OF ECONOMICS by Ben Bernanke.
 1. A PRACTICAL GUIDE TO FINANCIAL REPORTING STANDARDS (SINGAPORE) by Ng Eng Juan.
