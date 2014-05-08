@@ -3,11 +3,11 @@ layout: post
 title: "How to Rock Eclipse Like IntelliJ"
 description: "Handy configurations in Eclipse"
 category: Computer Science 
-tags: []
+tags: ['eclipse', 'intellij', 'occurrences', 'smart-saving']
 ---
 {% include JB/setup %}
 ## IntelliJ
-Okay okay, IntelliJ is great and almost perfect, but at the price USD $499. Additionally, The company I am interning does not offer IntelliJ but Eclipse. To make the things worse, most of the professors are using Eclipse, and my peers are using Eclipse writing their projects. There is little [Network Effect](http://en.wikipedia.org/wiki/Network_effect) using IntelliJ. However, IntelliJ is great, auto-completion, smart-saving, out-of box class file viewers, and etc. 
+Okay okay, IntelliJ is great and almost perfect, but at the price of USD $499. Additionally, The company I am interning does not offer IntelliJ but Eclipse. To make the things worse, most of the professors are using Eclipse, and my peers are using Eclipse writing their projects. There is little [Network Effect](http://en.wikipedia.org/wiki/Network_effect) using IntelliJ. However, IntelliJ is great, auto-completion, smart-saving, out-of box class file viewers, and etc. 
 
 ## Do Some Tinkering on Eclipse 
 
@@ -36,7 +36,7 @@ In there compare the settings for "Occurences" and "Write Occurrences" and ensur
 ### View Class File 
 Use the Jd [plug-in](http://jd.benow.ca/#jd-eclipse).
 
-Additionall, to add file association: 
+Additionally, to add file association: 
 
 * `General -> Editors -> File Associationn`  
 * Select "*.class" and mark "Class File Editor" as default  
