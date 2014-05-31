@@ -42,6 +42,7 @@ Additionally, to add file association:
 * Select "*.class" and mark "Class File Editor" as default  
 * Select "*.class without source" -> Add -> "Class File Editor" -> Make it as default  
 
+Alternatively, this [JadClipse](http://sourceforge.net/projects/jadclipse/) works out-of-box.
 ### Export Settings
 Settings can be exported to a file using `File -> Export -> Preferences`, and you can import it to another Eclipse workspace.
 
