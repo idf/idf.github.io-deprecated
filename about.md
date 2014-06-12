@@ -15,6 +15,9 @@ Smile to people, appreciate arts, and be grateful to life.
 
 Software is not just about codes and tools, but about the individuals, societies, adn  humantities -- Peopleware.  
 
+### Personality 
+<img src="/assets/img/about/personality.png" alt="personality" style="width: 90%;"/>
+
 ### Noticeabele Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.  
 1. THE TIPPING POINT by Malcolm Gladwell.  
