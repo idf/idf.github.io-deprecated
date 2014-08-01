@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 ### About Me
-This is Daniel Danyang ZHANG (张丹漾) [Business & Computing](http://sce.ntu.edu.sg/CurrentStudents/Undergraduate/Pages/bcg.aspx)   junior undergraduate in Nanyang Technological University, Singapore (新加坡南洋理工大学).  
+This is Daniel D. Zhang (张丹漾) [Business & Computing](http://sce.ntu.edu.sg/CurrentStudents/Undergraduate/Pages/bcg.aspx)   junior undergraduate in Nanyang Technological University, Singapore (新加坡南洋理工大学).  
 
 Tags - Reader, Doer, Technologist. 
 
