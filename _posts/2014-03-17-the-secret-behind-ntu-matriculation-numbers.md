@@ -18,9 +18,12 @@ Every student matriculated in Nanyang Technological University Singapore (NTU) i
 NTU has changed the matriculation number format thus is different from 2005 version according to [this][1]. In this study, only "U", undergraduate, matriculation numbers are studied since I only sufficient access to such matriculation numbers.  
 
 The pattern for digits in the matriculation numbers can be easily observed, and the pattern is as explained above. The only difficulty lies in how to calculate the checksum as the last letter. 
+
 ###Hash Function 
+
 ####Heuristic
 As observed in large set of samples, the checksum letter space is `A-L` excluding `I`. Thus the size of checksum letter space is 11, a prime number which is commonly used in simple hash function. 
+
 ####Algorithmic
 Searching for digit weights. Every digit's weight range from 0 to 10, since 11 is the prime number doing the hashing. There are 7 digits in matriculation number, thus there are 11^7 possibilities. A program is written to search for the digit weights. 
 
