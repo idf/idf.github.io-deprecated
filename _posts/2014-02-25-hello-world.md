@@ -19,3 +19,6 @@ Read this [tutorial](http://christopherpoole.github.io/using-mathjax-on-github-p
 </script>
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
+
+## Github Code Gist-It
+<script src="http://gist-it.appspot.com/github/zhangdanyangg/Fibonacci/blob/master/python_fib.py?footer=0"></script>
