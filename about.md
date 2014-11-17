@@ -42,4 +42,4 @@ Software is not just about codes and tools, but about the individuals, societies
 
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
-1. DAVID AND GOLIATH by Fred Brooks.
+1. DAVID AND GOLIATH by Malcolm Gladwell.
