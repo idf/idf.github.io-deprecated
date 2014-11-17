@@ -28,6 +28,18 @@ Software is not just about codes and tools, but about the individuals, societies
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
 1. PRINCIPLES OF ECONOMICS by Ben Bernanke.
+1. STATISTICS FOR BUSINESS AND ECONOMICS by D. Anderson, et al.
 1. A PRACTICAL GUIDE TO FINANCIAL REPORTING STANDARDS (SINGAPORE) by Ng Eng Juan.
 1. ORGANIZATIONAL BEHAVIOR by Kreitner, R. and Kinicki, A.  
 1. INTRODUCTION TO DATA MINING by Pang-Ning Tan.
+1. INFORMATION TECHNOLOGY PROJECT MANAGEMENT by Kathy Schwalben.
+1. ELECTRONIC AND ALGORITHMIC TRADING TECHNOLOGY by Kendall Kim.
+1. STRAIGHT THROUGH PROCESSING FOR FINANCIAL SERVICES by Ayesha Khanna.
+1. AN INTRODUCTION TO MANAGEMENT SCIENCE by David R. Anderson, et al. 
+1. INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS by Simha R. Magal, Jeffrey Word.
+1. DATABASE SYSTEMS DESIGN, IMPLEMENTATION AND MANAGEMENT by Coronel, Norris, Rob.
+1. LUCENE IN ACTION by Michael McCandless, Erik Hatcher, Otis Gospodnetic.
+
+### Books I Am Reading
+1. INTRODUCTION TO ALGORITHMS by CLRS.
+1. DAVID AND GOLIATH by Fred Brooks.
