@@ -19,6 +19,7 @@ Software is not just about codes and tools, but about the individuals, societies
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.  
 1. THE TIPPING POINT by Malcolm Gladwell.  
 1. OUTLIERS by Malcolm Gladwell.  
+1. DAVID AND GOLIATH by Malcolm Gladwell.  
 1. FLOW by Mihaly Csikszentmihalyi.  
 1. THE MYTHICAL MAN-MONTH by Fred Brooks.  
 1. YES by Noah J. Goldstein.  
@@ -42,4 +43,3 @@ Software is not just about codes and tools, but about the individuals, societies
 
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
-1. DAVID AND GOLIATH by Malcolm Gladwell.
