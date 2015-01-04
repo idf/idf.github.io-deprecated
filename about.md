@@ -42,4 +42,5 @@ Software is not just about codes and tools, but about the individuals, societies
 1. LUCENE IN ACTION by Michael McCandless, Erik Hatcher, Otis Gospodnetic.
 
 ### Books I Am Reading
+1. THE POWER OF HABIT by Charles Duhigg.  
 1. INTRODUCTION TO ALGORITHMS by CLRS.
