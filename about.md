@@ -44,3 +44,4 @@ Software is not just about codes and tools, but about the individuals, societies
 ### Books I Am Reading
 1. THE POWER OF HABIT by Charles Duhigg.  
 1. INTRODUCTION TO ALGORITHMS by CLRS.
+1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
