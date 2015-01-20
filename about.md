@@ -40,8 +40,8 @@ Software is not just about codes and tools, but about the individuals, societies
 1. INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS by Simha R. Magal, Jeffrey Word.
 1. DATABASE SYSTEMS DESIGN, IMPLEMENTATION AND MANAGEMENT by Coronel, Norris, Rob.
 1. LUCENE IN ACTION by Michael McCandless, Erik Hatcher, Otis Gospodnetic.
+1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
 
 ### Books I Am Reading
 1. THE POWER OF HABIT by Charles Duhigg.  
 1. INTRODUCTION TO ALGORITHMS by CLRS.
-1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
