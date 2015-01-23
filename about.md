@@ -25,6 +25,7 @@ Software is not just about codes and tools, but about the individuals, societies
 1. YES by Noah J. Goldstein.  
 1. DRIVE by Daniel H. Pink.  
 1. QUIET by Susan Cain.  
+1. THE POWER OF HABIT by Charles Duhigg.  
 
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
@@ -43,5 +44,4 @@ Software is not just about codes and tools, but about the individuals, societies
 1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
 
 ### Books I Am Reading
-1. THE POWER OF HABIT by Charles Duhigg.  
-1. INTRODUCTION TO ALGORITHMS by CLRS.
+1. INTRODUCTION TO ALGORITHMS by CLRS.  
