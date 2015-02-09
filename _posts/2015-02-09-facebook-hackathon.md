@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facebook Hackathon"
-description: ""
+description: "Code, Hack, Ship"
 category: Computer Science
 tags: [Hackathon]
 ---
