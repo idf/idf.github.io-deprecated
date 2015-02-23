@@ -10,9 +10,9 @@ pygments: true
 title : Deep Reader
 tagline: Yet another technical blog
 author :
-  name : Daniel Danyang Zhang
-  email : zhangdanyangg@gmail.com
-  github : zhangdanyangg
+  name : Daniel
+  email : zhangdanyangg at gmail dot com
+  github : idf
   twitter : __DanielZhang
   feedburner : DeepReader # feedname
   feedname : DeepReader
