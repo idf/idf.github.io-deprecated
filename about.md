@@ -45,3 +45,5 @@ Software is not just about codes and tools, but about the individuals, societies
 
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.  
+
+<img style="width: 50%" src="/assets/img/about/QR.png"> 
