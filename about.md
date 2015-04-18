@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 ### About Me
-This is Daniel [Business & Computing](http://sce.ntu.edu.sg/CurrentStudents/Undergraduate/Pages/bcg.aspx) final-year undergraduate in Nanyang Technological University, Singapore. 
+This is Danyang ZHANG (Daniel).
 
 Tags - Reader, Doer, Maker and Hacker. 
 
