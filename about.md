@@ -8,8 +8,9 @@ description: ""
 ### About Me
 This is Danyang ZHANG (Daniel).
 
-Tags - Reader, Doer, Maker and Hacker.  
-<div class="github-card" data-user="idf"></div>
+Tags - Reader, Doer, Maker and Hacker.
+
+<div class="github-card" data-user="idf">&nbsp;</div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
