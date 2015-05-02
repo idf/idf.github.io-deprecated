@@ -8,7 +8,10 @@ description: ""
 ### About Me
 This is Danyang ZHANG (Daniel).
 
-Tags - Reader, Doer, Maker and Hacker. 
+Tags - Reader, Doer, Maker and Hacker.  
+<div class="github-card" data-user="idf"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 ### Personal Beliefs
 Smile to people, appreciate arts, and be grateful to life.  
@@ -44,6 +47,6 @@ Software is not just about codes and tools, but about the individuals, societies
 1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
 
 ### Books I Am Reading
-1. INTRODUCTION TO ALGORITHMS by CLRS.  
+1. INTRODUCTION TO ALGORITHMS by CLRS.
 
 <img style="width: 50%" src="/assets/img/about/QR.png"> 
