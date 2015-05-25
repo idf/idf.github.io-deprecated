@@ -6,6 +6,7 @@ category: Computer Science
 tags: ['eclipse', 'intellij', 'occurrences', 'smart-saving']
 ---
 {% include JB/setup %}
+
 ## IntelliJ
 Okay okay, IntelliJ is great and almost perfect, but at the price of USD $499. Additionally, The company I am interning does not offer IntelliJ but Eclipse. To make the things worse, most of the professors are using Eclipse, and my peers are using Eclipse writing their projects. There is little [Network Effect](http://en.wikipedia.org/wiki/Network_effect) using IntelliJ. However, IntelliJ is great, auto-completion, smart-saving, out-of box class file viewers, and etc. 
 
@@ -43,6 +44,7 @@ Additionally, to add file association:
 * Select "*.class without source" -> Add -> "Class File Editor" -> Make it as default  
 
 Alternatively, this [JadClipse](http://sourceforge.net/projects/jadclipse/) works out-of-box.
+
 ### Export Settings
 Settings can be exported to a file using `File -> Export -> Preferences`, and you can import it to another Eclipse workspace.
 
