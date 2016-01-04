@@ -51,5 +51,8 @@ Software is not just about codes and tools, but about the individuals, societies
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
 1. LEARN YOU A HASKELL FOR GREAT GOOD by Miran Lipovaca.
+1. ISMS: UNDERSTANDING ART by Stephen Little
 
+<!--
 <IMG style="width: 50%" src="/assets/img/about/QR.png">
+-->
