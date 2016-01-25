@@ -19,6 +19,9 @@ Smile to people, appreciate arts, and be grateful to life.
 
 Software is not just about codes and tools, but about the individuals, societies, and  humanities -- Peopleware.
 
+### Friends' links
+* [xidui, xidui.github.io](http://xidui.github.io)
+
 ### Noticeable Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.
 1. THE TIPPING POINT by Malcolm Gladwell.
