@@ -33,7 +33,7 @@ Software is not just about codes and tools, but about the individuals, societies
 1. DRIVE by Daniel H. Pink.
 1. QUIET by Susan Cain.
 1. THE POWER OF HABIT by Charles Duhigg.
-1. The Passionate Programmer by Chad Fowler.
+1. THE PASSIONATE PROGRAMMER by Chad Fowler.
 1. ISMS: UNDERSTANDING ART by Stephen Little
 
 ### Noticeable Technical Books I Have Read
