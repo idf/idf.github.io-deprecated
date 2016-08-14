@@ -60,6 +60,9 @@ Software is not just about codes and tools, but about the individuals, societies
 1. INTRODUCTION TO ALGORITHMS by CLRS.
 1. LEARN YOU A HASKELL FOR GREAT GOOD by Miran Lipovaca.
 
+### Books to Read
+1. PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS by Tom DeMarco
+
 <!--
 <IMG style="width: 50%" src="/assets/img/about/QR.png">
 -->
