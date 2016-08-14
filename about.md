@@ -33,6 +33,8 @@ Software is not just about codes and tools, but about the individuals, societies
 1. DRIVE by Daniel H. Pink.
 1. QUIET by Susan Cain.
 1. THE POWER OF HABIT by Charles Duhigg.
+1. The Passionate Programmer by Chad Fowler.
+1. ISMS: UNDERSTANDING ART by Stephen Little
 
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
@@ -50,12 +52,13 @@ Software is not just about codes and tools, but about the individuals, societies
 1. LUCENE IN ACTION by Michael McCandless, Erik Hatcher, Otis Gospodnetic.
 1. JAVA 8 IN ACTION: LAMBDAS, STREAMS, AND FUNCTIONAL-STYLE PROGRAMMING (Part 1 2), by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft.
 1. NOSQL DISTILLED by Pramod J. Sadalage, Martin Fowler.
+1. EFFECTIVE PYTHON by Brett Slatkin
+1. ANDROID PROGRAMMING: THE BIG NERD RANCH GUIDE by Bill Phillips.
+1. LEARNING REACT NATIVE: BUILDING NATIVE MOBILE APPS WITH JAVASCRIPT by Eisenman.
 
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
 1. LEARN YOU A HASKELL FOR GREAT GOOD by Miran Lipovaca.
-1. ISMS: UNDERSTANDING ART by Stephen Little
-1. EFFECTIVE PYTHON by Brett Slatkin
 
 <!--
 <IMG style="width: 50%" src="/assets/img/about/QR.png">
