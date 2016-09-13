@@ -34,7 +34,8 @@ Software is not just about codes and tools, but about the individuals, societies
 1. QUIET by Susan Cain.
 1. THE POWER OF HABIT by Charles Duhigg.
 1. THE PASSIONATE PROGRAMMER by Chad Fowler.
-1. ISMS: UNDERSTANDING ART by Stephen Little
+1. ISMS: UNDERSTANDING ART by Stephen Little.
+1. THE PASSIONATE PROGRAMMER by Chad Fowler.
 
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
@@ -60,7 +61,6 @@ Software is not just about codes and tools, but about the individuals, societies
 ### Books I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
 1. LEARN YOU A HASKELL FOR GREAT GOOD by Miran Lipovaca.
-1. THE PASSIONATE PROGRAMMER by Chad Fowler.
 
 ### Books to Read
 1. PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS by Tom DeMarco.
