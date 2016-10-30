@@ -28,7 +28,6 @@ Software is not just about codes and tools, but about the individuals, societies
 1. OUTLIERS by Malcolm Gladwell.
 1. DAVID AND GOLIATH by Malcolm Gladwell.
 1. FLOW by Mihaly Csikszentmihalyi.
-1. THE MYTHICAL MAN-MONTH by Fred Brooks.
 1. YES by Noah J. Goldstein.
 1. DRIVE by Daniel H. Pink.
 1. QUIET by Susan Cain.
@@ -39,6 +38,7 @@ Software is not just about codes and tools, but about the individuals, societies
 
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
+1. THE MYTHICAL MAN-MONTH by Fred Brooks.
 1. PRINCIPLES OF ECONOMICS by Ben Bernanke.
 1. STATISTICS FOR BUSINESS AND ECONOMICS by D. Anderson, et al.
 1. A PRACTICAL GUIDE TO FINANCIAL REPORTING STANDARDS (SINGAPORE) by Ng Eng Juan.
@@ -57,10 +57,11 @@ Software is not just about codes and tools, but about the individuals, societies
 1. ANDROID PROGRAMMING: THE BIG NERD RANCH GUIDE by Bill Phillips.
 1. LEARNING REACT NATIVE: BUILDING NATIVE MOBILE APPS WITH JAVASCRIPT by Eisenman.
 1. MASTERMINDS OF PROGRAMMING: CONVERSATIONS WITH THE CREATORS OF MAJOR PROGRAMMING LANGUAGES by Biancuzzi.
-
-### Books I Am Reading
-1. INTRODUCTION TO ALGORITHMS by CLRS.
 1. LEARN YOU A HASKELL FOR GREAT GOOD by Miran Lipovaca.
+1. WEB DEVELOPMENT WITH NODE AND EXPRESS by Ethan Brown.
+
+### BOOKS I Am Reading
+1. INTRODUCTION TO ALGORITHMS by CLRS.
 
 ### Books to Read
 1. PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS by Tom DeMarco.
