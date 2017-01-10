@@ -19,9 +19,6 @@ Smile to people, appreciate arts, and be grateful to life.
 
 Software is not just about codes and tools, but about the individuals, societies, and  humanities -- Peopleware.
 
-### Friends' links
-* [xidui, xidui.github.io](http://xidui.github.io)
-
 ### Noticeable Non-fictions I Have Read
 1. NUDGE by Richard H. Thaler and Cass R. Sunstein.
 1. THE TIPPING POINT by Malcolm Gladwell.
@@ -32,9 +29,13 @@ Software is not just about codes and tools, but about the individuals, societies
 1. DRIVE by Daniel H. Pink.
 1. QUIET by Susan Cain.
 1. THE POWER OF HABIT by Charles Duhigg.
-1. THE PASSIONATE PROGRAMMER by Chad Fowler.
 1. ISMS: UNDERSTANDING ART by Stephen Little.
 1. THE PASSIONATE PROGRAMMER by Chad Fowler.
+1. THE FACEBOOK EFFECT by David Kirkpatrick.
+1. HACKERS & PAINTERS by Paul Graham.
+
+### Noticeable noval I Have Read
+1. THE ALCHEMIST by Paulo Coelho
 
 ### Noticeable Technical Books I Have Read
 1. UML DISTILLED by Martin Fowler.
@@ -62,6 +63,7 @@ Software is not just about codes and tools, but about the individuals, societies
 
 ### BOOKS I Am Reading
 1. INTRODUCTION TO ALGORITHMS by CLRS.
+1. DOCKER IN ACTION by Jeff Nickoloff.
 
 ### Books to Read
 1. PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS by Tom DeMarco.
