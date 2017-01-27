@@ -30,11 +30,14 @@ Software is not just about codes and tools, but about the individuals, societies
 1. QUIET by Susan Cain.
 1. THE POWER OF HABIT by Charles Duhigg.
 1. ISMS: UNDERSTANDING ART by Stephen Little.
+1. THE BIG SHORT: INSIDE THE DOOMSDAY MACHINE by Michael Lewis.
+1. LIAR'S POKER by Michael Lewis.
 1. THE PASSIONATE PROGRAMMER by Chad Fowler.
 1. THE FACEBOOK EFFECT by David Kirkpatrick.
 1. HACKERS & PAINTERS by Paul Graham.
+1. PRAGMATIC THINKING AND LEARNING - REFACTOR YOUR WETWARE by Andy Hunt.
 
-### Noticeable noval I Have Read
+### Noticeable Noval I Have Read
 1. THE ALCHEMIST by Paulo Coelho
 
 ### Noticeable Technical Books I Have Read
