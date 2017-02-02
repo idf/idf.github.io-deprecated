@@ -36,6 +36,7 @@ Software is not just about codes and tools, but about the individuals, societies
 1. THE FACEBOOK EFFECT by David Kirkpatrick.
 1. HACKERS & PAINTERS by Paul Graham.
 1. PRAGMATIC THINKING AND LEARNING - REFACTOR YOUR WETWARE by Andy Hunt.
+1. ZERO TO ONE: NOTES ON STARTUPS, OR HOW TO BUILD THE FUTURE by Peter Thiel and Blake Masters.
 
 ### Noticeable Noval I Have Read
 1. THE ALCHEMIST by Paulo Coelho
